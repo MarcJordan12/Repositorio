@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+.footer{
+    background-color:#383838;
+}
+img{
+    height:3rem;
+}
+p,a,svg{
+    color: #d3d3d3;
+    text-decoration: none;
+    font-family: 'Radio Canada', sans-serif;
+    fill:#6d6d6d;
+    font-weight: 300;
+}
+a:hover,svg:hover{
+    color: #ffffff;
+    fill:#ffffff;
+}
+strong{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: 'Radio Canada', sans-serif;
+}
